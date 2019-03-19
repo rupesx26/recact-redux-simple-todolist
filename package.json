@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/rupesx26/recact-redux-simple-todolist#readme",
   "dependencies": {
+    "prop-types": "^15.7.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-redux": "^6.0.1",
